@@ -17,8 +17,8 @@ namespace SpinPost
             {
                 string json = String.Empty;
                 NameValueCollection data = new NameValueCollection();
-                data["email_address"] = "darieylmitchell@gmail.com";
-                data["api_key"] = "49752ab#b57ac30_2a8e525?6093080";
+                data["email_address"] = "";
+                data["api_key"] = "";
                 data["action"] = "unique_variation";
                 data["add_html_markup"] = "false";
                 data["use_html_linebreaks"] = "false";
